@@ -5,12 +5,12 @@ is a single-page application, uses bootstrap and jquery. Does not use database
 
 Features:
   * You can choose the speed of the words
-  * you can change the viewer theme
+  * You can change the viewer theme
   * You can upload your own books (incomplete)
   
  Features to be developed:
-  * continue reading where it was left
-  * overtake and delay reading
+  * Continue reading where it was left
+  * Overtake and delay reading
   
   Known bugs:
   * Sometimes the theme does not work
